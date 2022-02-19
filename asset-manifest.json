@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/StudentTeacherReports/static/css/main.ae8ba926.css",
+    "main.js": "/StudentTeacherReports/static/js/main.cd519345.js",
+    "static/js/787.633816a4.chunk.js": "/StudentTeacherReports/static/js/787.633816a4.chunk.js",
+    "static/media/logo.svg": "/StudentTeacherReports/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/StudentTeacherReports/index.html",
+    "main.ae8ba926.css.map": "/StudentTeacherReports/static/css/main.ae8ba926.css.map",
+    "main.cd519345.js.map": "/StudentTeacherReports/static/js/main.cd519345.js.map",
+    "787.633816a4.chunk.js.map": "/StudentTeacherReports/static/js/787.633816a4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ae8ba926.css",
+    "static/js/main.cd519345.js"
+  ]
+}
